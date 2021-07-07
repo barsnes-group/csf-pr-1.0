@@ -1,1 +1,5 @@
-/target/
+target/
+nb-configuration.xml
+src/main/webapp/VAADIN/widgetsets\probe.com.AppWidgetSet/
+*.js
+*.js
